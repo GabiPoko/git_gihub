@@ -2,5 +2,7 @@ print ("Hello gatuque")
 
 print ("Holagit soy gabi")
 
-print ("es")
+print ("estoy trabajand en git hub")
+
+
  
